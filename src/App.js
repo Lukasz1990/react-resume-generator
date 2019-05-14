@@ -1,6 +1,5 @@
 import React from 'react';
 import axios from 'axios';
-import './App.css';
 
 const client_id = "Iv1.0e5b90fc3244118b";
 const client_secret = "c957b1bdc5db654a4d68cdd11d70b3f3a921b8aa";
