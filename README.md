@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+simply training with API (axios) React
 
 ## Available Scripts
 
